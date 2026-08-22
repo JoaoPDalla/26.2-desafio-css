@@ -4,7 +4,7 @@ NOME DOS INTEGRANTES:
 
 - João Pedro Dalla Bernardina Medici
 - Luan Miguel Ferraro Pereira
-- Link do GitHub Pages: COLOQUE O LINK AQUI 
+- Link do GitHub Pages: https://joaopdalla.github.io/26.2-desafio-css/
 
 ## Desafio CSS
 
