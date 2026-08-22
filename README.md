@@ -3,7 +3,7 @@
 NOME DOS INTEGRANTES:
 
 - João Pedro Dalla Bernardina Medici
-- Luan Miguel
+- Luan Miguel Ferraro Pereira
 - Link do GitHub Pages: COLOQUE O LINK AQUI 
 
 ## Desafio CSS
